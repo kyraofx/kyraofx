@@ -23,11 +23,9 @@ Right now, I’m learning and building my way through:
 * 🤖 **AI Engineering** — LLMs, chatbots, agents, RAG, APIs, and AI-powered applications
 * 📊 **Data Science & Machine Learning** — turning messy data into useful models and insights
 * 🛠️ **Software Engineering Fundamentals** — Git, databases, APIs, backend systems, and how real applications fit together
-* ☁️ **Cloud & Infrastructure** — learning how to take projects beyond my laptop and into production
 * 🧪 **Independent Projects** — experimenting with everything from news aggregation and AI assistants to economic analysis and machine learning projects
 
-So that’s what I’m doing now.
 
 This GitHub is basically my laboratory: a growing collection of things I’m learning, experimenting with, breaking, fixing, and eventually turning into real products.
 
-**Currently working toward becoming the kind of AI engineer who understands the math, understands the systems, and knows how to make the pieces actually work together.** ✨
+**Currently working toward becoming an engineer who understands the math, understands the systems, and knows how to make the pieces actually work together.** ✨
