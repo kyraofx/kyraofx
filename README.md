@@ -1,6 +1,6 @@
 # Hi, I'm Kyra.
 
-I build AI-powered applications, intelligent agents, and automation tools, with a focus on practical solutions and thoughtful engineering.
+I build AI-assisted applications, intelligent agents, and automation tools, with a focus on practical solutions and thoughtful engineering.
 
 ### Selected Projects
 
