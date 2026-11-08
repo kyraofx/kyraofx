@@ -1,6 +1,6 @@
 # Hi, I'm Kyra.
 
-I'm an applied AI developer with a background in mathematics and statistics. I build AI-powered applications, intelligent agents, and automation tools, with a focus on practical solutions and thoughtful engineering.
+I build AI-powered applications, intelligent agents, and automation tools, with a focus on practical solutions and thoughtful engineering.
 
 ### Selected Projects
 
@@ -19,3 +19,7 @@ A personal time-tracking application for activity logging and productivity insig
 - Context engineering, memory, and tool integration
 - Reliable LLM applications and workflow automation
 - Building and deploying end-to-end AI products
+
+### Background
+M.S. Applied Statistics · B.S. Pure Mathematics
+California State University, Long Beach
